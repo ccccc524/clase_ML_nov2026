@@ -1,0 +1,22 @@
+MÚSICA DE PRUEBA CON LICENCIA LIBRE — para el taller "¿Cómo funciona Shazam?"
+Fuente: colección de ejemplos del proyecto librosa (https://github.com/librosa/data).
+Uso educativo, no comercial. Respetar las licencias y dar crédito:
+
+canciones/
+  vibe_ace.mp3            "Vibe Ace" — Kevin MacLeod (Free Music Archive) · CC BY 3.0
+  sugar_plum_fairy.mp3    "P. I. Tchaikovsky: Dance of the Sugar Plum Fairy" — Kevin MacLeod · CC BY 3.0
+  lets_go_fishin.mp3      "Let's Go Fishin'" — Karissa Hobbs (Free Music Archive) · CC BY 3.0
+  hungarian_dance_5.mp3   "Hungarian Dance No. 5" (Brahms) — US Army Strings, Musopen · Dominio público
+  pistachio_ragtime.mp3   "Pistachio Ice Cream Ragtime" — The Piano Lady (Lena Orsa), freesound · CC BY-NC 3.0
+  sweet_waltz.mp3         "sweet waltz 0I_22mi" — Setuniman, freesound · CC BY-NC 3.0
+  choice_drum_bass.mp3    "Choice" (sólo batería y bajo) — Admiral Bob ft. Snowflake, ccMixter · CC BY-NC
+
+muestras/  (10 s cada una, mezcladas con voces de LibriSpeech (CC BY 4.0) y filtradas como micrófono de celular)
+  muestra_01  vibe_ace, desde el segundo 20
+  muestra_02  sugar_plum_fairy, desde el segundo 60
+  muestra_03  lets_go_fishin, desde el segundo 90
+  muestra_04  hungarian_dance_5, desde el segundo 15
+  muestra_05  pistachio_ragtime, desde el segundo 40
+  muestra_06  NO está: "Jesu geh voran" (Adam Drese), trompeta de Stefan Balke · CC BY 4.0
+  muestra_07  NO está: "Jesu geh voran", versión MIDI (ChoraleBricks, Balke, Berndt y Müller, 2025)
+  muestra_08  NO está: canto de ballena jorobada, Glacier Bay (NPS) · Dominio público
